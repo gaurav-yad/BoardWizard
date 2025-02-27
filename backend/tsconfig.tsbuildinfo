@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/game/board.ts","./src/game/events.ts","./src/game/game.ts","./src/game/gamemanager.ts","./src/game/player.ts"],"version":"5.7.3"}
